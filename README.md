@@ -1,2 +1,9 @@
 # Flappy-Bird-AI
-AI playing flappy bird using the NEAT python module.
+You can either play the game, or watch an AI playing it!
+
+# Requirements
+numpy
+pygame
+neat-python
+graphviz
+matplotlib
